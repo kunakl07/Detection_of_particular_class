@@ -5,6 +5,7 @@
     ```
     Download these images and place it '/content/TFmodels/research/object_detection/test_images/' here
     ```
-##Run the program 
+## Run the program 
 Here we are choosing to detect the class of cats only ignoring all other classes 
-
+![alt text](https://github.com/kunakl07/Detection_of_particular_class/blob/master/Screenshot%20from%202020-03-01%2016-01-10.png)
+![alt text](https://github.com/kunakl07/Detection_of_particular_class/blob/master/Screenshot%20from%202020-03-01%2016-01-35.png)
